@@ -1,7 +1,9 @@
 ---
 layout: default
 title: High Seas Moment-零技术牛女人勇闯github
+permalink: /first-blog
 ---
+
 
 <!-- 下面这些meta标签只给X卡片用，不会出现在文章里 -->
 <meta property="og:title" content="High Seas Moment-零技术牛女人勇闯github">
