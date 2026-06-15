@@ -5,11 +5,11 @@ layout: default
 <!-- 下面这些meta标签只给X卡片用，不会出现在文章里 -->
 <meta property="og:title" content="零技术基础牛女人勇闯github">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://i.imgur.com/PkIty8K.jpg">
+<meta property="og:image" content="https://i.imgur.com/msEKQVY.jpeg">
 
 <meta name="twitter:title" content="零技术基础牛女人勇闯github">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://i.imgur.com/PkIty8K.jpg">
+<meta name="twitter:image" content="https://i.imgur.com/msEKQVY.jpeg">
 
 # 零技术基础牛女人勇闯github
 
@@ -27,6 +27,6 @@ layout: default
 
 感谢LLM的普及，把我从满脑子问号和噪音中释放出来，有时间有心情去问更好的问题了。
 
-![](https://i.imgur.com/PkIty8K.jpg)
+![](https://i.imgur.com/msEKQVY.jpeg)
 
 以上是我收藏的摄影作品公海，来自法国艺术家THOMAS SORRENTINO。
