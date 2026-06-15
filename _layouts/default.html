@@ -4,6 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | Xi Luo's Blog</title>
+    <meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.desc }}">
+<meta property="og:image" content="{{ page.og_img }}">
+<meta property="og:type" content="article">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{ page.desc }}">
+<meta name="twitter:image" content="{{ page.og_img }}">
     <style>
         /* 全局变量：浅色/深色模式颜色 */
         :root {
