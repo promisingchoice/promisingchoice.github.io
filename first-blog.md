@@ -30,3 +30,5 @@ layout: default
 ![](https://i.imgur.com/msEKQVY.jpeg)
 
 以上是我收藏的摄影作品公海，来自法国艺术家THOMAS SORRENTINO。
+
+来到github，像驶入公海一样开阔了起来。这就是我的 High Seas Moment 公海时刻。
