@@ -1,11 +1,14 @@
+---
+layout: default
+---
+
 <meta property="og:title" content="零技术基础牛女人勇闯github">
-<meta property="og:description" content="这里写卡片简介，不需要就写空">
-<meta property="og:image" content="https://imgur.com/a/PkWty8K.jpg">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://i.imgur.com/PkIty8K.jpg">
 
 <meta name="twitter:title" content="零技术基础牛女人勇闯github">
-<meta name="twitter:description" content="这里写卡片简介，不需要就写空">
-<meta name="twitter:image" content="https://imgur.com/a/PkWty8K.jpg">
-
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://i.imgur.com/PkIty8K.jpg">
 
 # 零技术基础牛女人勇闯github
 
