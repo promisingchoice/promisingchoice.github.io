@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 零技术基础牛女人勇闯GitHub
+title: High-Seas-Moment
 desc: 我的High-Seas Moment公海时刻，零基础踏入GitHub
 og_img: https://i.imgur.com/msEKQVY.jpeg
 ---
