@@ -2,6 +2,7 @@
 layout: default
 ---
 
+<!-- 下面这些meta标签只给X卡片用，不会显示在文章里 -->
 <meta property="og:title" content="零技术基础牛女人勇闯github">
 <meta property="og:description" content="">
 <meta property="og:image" content="https://i.imgur.com/PkIty8K.jpg">
@@ -9,6 +10,7 @@ layout: default
 <meta name="twitter:title" content="零技术基础牛女人勇闯github">
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="https://i.imgur.com/PkIty8K.jpg">
+
 
 # 零技术基础牛女人勇闯github
 
@@ -25,3 +27,6 @@ layout: default
 记事本是线性的，但大脑极其跳跃。我不仅有跟ai深究死磕的对话，反刍当下这个结论的过程，还有跨学科的灵感，我放弃可视化，学着用数字和代码表达这些复杂逻辑。我允许混乱产生，再亲手梳理它。这个过程极其享受。
 
 感谢LLM的普及，把我从满脑子问号和噪音中释放出来，有时间有心情去问更好的问题了。
+
+
+以上是我收藏的摄影作品公海，来自法国艺术家THOMAS SORRENTINO。
