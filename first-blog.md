@@ -1,3 +1,12 @@
+<meta property="og:title" content="零技术基础牛女人勇闯github">
+<meta property="og:description" content="这里写卡片简介，不需要就写空">
+<meta property="og:image" content="https://imgur.com/a/PkWty8K.jpg">
+
+<meta name="twitter:title" content="零技术基础牛女人勇闯github">
+<meta name="twitter:description" content="这里写卡片简介，不需要就写空">
+<meta name="twitter:image" content="https://imgur.com/a/PkWty8K.jpg">
+
+
 # 零技术基础牛女人勇闯github
 
 不怕人笑话，4天前刚开始接触github时我真的很痛苦，中途一度想哭。零技术基础，什么都不懂。第一步连网站都打不开，先和网络错误搏斗3小时。然后下载又慢，技术英文看不懂，代码像天书，想完全搞明白又不知道从何入手。外界啥都叫新范式，天天造新概念，讨厌人云亦云制造焦虑。平静的生活开始熵增。
