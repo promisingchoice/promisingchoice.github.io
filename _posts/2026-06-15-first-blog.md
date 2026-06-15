@@ -1,18 +1,9 @@
 ---
 layout: default
-title: High Seas Moment-零技术牛女人勇闯github
-permalink: /first-blog
+title: 零技术基础牛女人勇闯GitHub
+desc: 我的High-Seas Moment公海时刻，零基础踏入GitHub
+og_img: https://i.imgur.com/msEKQVY.jpeg
 ---
-
-<meta property="og:title" content="零技术基础牛女人勇闯GitHub">
-<meta property="og:description" content="我的High Seas Moment公海时刻，零基础踏入GitHub">
-<meta property="og:image" content="https://i.imgur.com/msEKQVY.jpeg">
-<meta property="og:type" content="article">
-
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="零技术基础牛女人勇闯GitHub">
-<meta name="twitter:description" content="我的High Seas Moment公海时刻，零基础踏入GitHub">
-<meta name="twitter:image" content="https://i.imgur.com/msEKQVY.jpeg">
 
 # High Seas Moment - 零技术牛女人勇闯github
 
